@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranaliPrakash
 - 👀 I’m interested in ...Reading,Football
-- 🌱 I’m currently learning ...Python,Java,Machine Learning
+- 🌱 I’m currently learning ...Python,Machine Learning
 - 💞️ I’m looking to collaborate on ...Python,Machine Learning
 - 📫 How to reach me ...Mail Me:- pranaliparab1325@gmail.com
 
